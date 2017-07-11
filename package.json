@@ -1,0 +1,13 @@
+{
+  "version": "0.0.15",
+  "name": "docker_web_app",
+  "description": "Node.js on Docker",
+  "author": "Site Reliability Engineer<sre@thinknet.co.th",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
